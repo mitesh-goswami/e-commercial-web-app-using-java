@@ -17,7 +17,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author jigar
+ * @author mitesh
  */
 public class Child extends javax.swing.JFrame {
 
